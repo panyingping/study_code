@@ -10,7 +10,7 @@
 
 	<!--提取module中公共部分properties -->
 	<properties>
-		<spring.version>4.3.1.RELEASE</spring.version>
+		<spring.version>5.3.19</spring.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<jdk.version>1.7</jdk.version>
 	</properties>
